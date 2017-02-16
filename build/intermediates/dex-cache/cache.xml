@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_1e22dd14e08d477b7b49e61f7e70de6cb70647fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_bf9aa405d709703fd362ea998b3beb75aef9fa26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_03195de27da2a2ba97a41d07d252bc8bd1cfa7f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff1ee6308b0a3532af8dd60a34a2fbdad758e2ee">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07f741c0f7ff6f5b3204628ea195d0419a222f5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_e5e83c6b0b9c82764dd74aef22efd2b8c448279d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa44f14d5e3aa254bd2783f30c936c64b0d007d7">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1a8031db38bbf72489ecfedcfbd41b0e461fec9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_9bc18c4ac6fe599b8599fcc1546dbd9f3d7e5a78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_e2b86aa739a572c5b6b457d0da595347a6cf00a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_8be6727df4242cf2d6a91fd65e4f5d1e7d667591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_20072b0e7da042565a476ddf754ecb321ab6732d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_623b88c1a4021175eb48e27dffe12c451e5f3527/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_eb7d8bddfdac0e8b3828ebdbb1dc6e19793c7062/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_327c3dc49dfe1608887cb8e4251491a24fa76531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_ca499dee96b02e601d7dab1f175cc6a9453b4288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Downloads/Matthew-Reynolds-13138154/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_11531e22557a033060988b0d931c2257ccbcce90/classes.dex" />
+    </item>
+
+</items>
